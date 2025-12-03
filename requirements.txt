@@ -1,0 +1,22 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# PyTorch (CPU version - use torch with CUDA if GPU available)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Differential Privacy
+opacus>=1.4.0
+
+# Data loading
+ucimlrepo>=0.0.3
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter (if not already installed)
+jupyter>=1.0.0
+ipykernel>=6.20.0
