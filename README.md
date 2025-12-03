@@ -29,6 +29,7 @@ The project requires the following packages (see `requirements.txt` for versions
 - `ucimlrepo` - UCI ML repository data access
 - `matplotlib` - Visualization
 - `seaborn` - Statistical visualization (optional, for parameter sweep)
+- `tqdm` - Progress bar
 
 ## Reproducing Results
 
