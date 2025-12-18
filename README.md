@@ -54,6 +54,12 @@ Note: the Analysis 2 plotting parts might take a while to finish
 - Fairness metrics by sex and race
 - Privacy budgets (epsilon values)
 
-**Key Finding**: Selective DP-SGD achieves +1.12% better accuracy than Standard DP-SGD while providing targeted privacy protection for sensitive features (sex and race).
+**Key Finding**: It depends. S-DP-SGD works better ONLY under carefully tuned, moderate privacy settings (C ≤ 2.0, σ ≤ 1.5).
+
+**Implications**:
+- No universal "best" approach → depends on context
+- Privacy-fairness-FAIRNESS triple trade-off (sex vs. race)
+- Need careful validation before deployment
+
 
 
