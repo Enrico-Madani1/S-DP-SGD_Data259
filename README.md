@@ -2,6 +2,7 @@
 
 This project studies how different Standard Differential Privacy Stochastic Gradient Descent (DP-SGD) with Selective DP-SGD on the Adult Income Census dataset. This project analyzes the tradeoffs between privacy, utility, and fairness of both models.
 
+For more information about the result and methodology, feel free to check out the `Paper_DATA259.pdf` and `Poster_DATA259.pdf`
 ### Setup
 
 1. **Clone or download this repository**
